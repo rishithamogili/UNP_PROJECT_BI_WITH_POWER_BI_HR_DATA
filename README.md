@@ -8,4 +8,5 @@ Completed this project as part of my BI with PowerBI Internship with United Netw
 3.Ardently involved in creating data model, implemented data transformations and calculations using DAX for accurate analysis and Reporting.
 
 PBIX FILE: https://drive.google.com/file/d/19j3PTnk2TRXo8Ut5POQoknA2mRAowkKr/view?usp=drive_link
+
 PDF FILE: https://drive.google.com/file/d/1oDpdS1xiHPAl6IF6GqD-E2TOy_c3lH80/view?usp=drive_link
